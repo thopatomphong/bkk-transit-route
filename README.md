@@ -21,11 +21,10 @@ The problem statement required an application to find routes from Station A to S
 
 ## 📸 Screenshots
 
-| Route Selection | Route Result (Timeline) |
-|:---:|:---:|
-| <br> *Origin & Destination Input* | <br> *Calculated Route & Transfers* |
-
-![Input Screen](screenshots/transit_route_screen.png)
+<div align="center">
+  
+  <img src="screenshots/transit_route_screen.png" style="width:30%; height:auto;">
+</div>
 
 ---
 
